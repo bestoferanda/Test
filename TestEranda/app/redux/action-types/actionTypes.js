@@ -1,0 +1,3 @@
+export const AUTH_USER = 'AUTH_USER';
+export const GET_WEATHER_DATA = 'GET_WEATHER_DATA';
+export const GET_RESTURANT_DATA = 'GET_RESTURANT_DATA';
